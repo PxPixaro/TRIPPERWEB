@@ -1,0 +1,20 @@
+TRIPPER COMMUNITY — YELLOW CLEAN PERFORMANCE UPDATE
+
+Design
+- Applied the supplied template-inspired bright yellow, white and charcoal palette.
+- Reduced hero, headings, cards, spacing, images and controls to a clean medium scale.
+- Replaced heavy glass/blur styling with solid, lightweight panels and subtle shadows.
+- Kept the existing website data, pages, forms, filters, booking modal and interactions.
+
+Performance
+- Removed expensive backdrop blur, glow blobs, shimmer effects and fixed parallax.
+- Simplified transitions and reveal animation.
+- Auto sliders pause when the browser tab is hidden.
+- Added lazy loading and asynchronous decoding to content images.
+- Optimized large logo PNG assets for their real on-page display sizes.
+- Added content-visibility hints for below-the-fold sections.
+
+Primary colors
+- Yellow: #FFD500
+- Charcoal: #171717
+- White: #FFFFFF
