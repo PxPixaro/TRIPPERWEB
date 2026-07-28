@@ -1,13 +1,43 @@
-TRIPPER COMMUNITY — CLEAN YELLOW PERFORMANCE VERSION
+TRIPPER COMMUNITY — ROYAL YELLOW CLEAN DEMO
+============================================
 
-Website chalane ke liye:
-1. Folder extract karein.
-2. index.html ko browser me open karein.
-3. Local server ke liye RUN_LOCAL_SERVER.bat (Windows) ya start_server.sh use karein.
+Main pages:
+1. index.html
+2. store/pune_trips/index.html  (also available as pune-trips.html)
+3. tour.html
+4. homes.html
+5. blogs.html
+6. about.html
+7. contact.html
 
-Is update me supplied yellow adventure template ke according yellow, white aur charcoal color palette use ki gayi hai. Layout ko medium aur compact kiya gaya hai. Heavy blur/glass, glow aur extra animations remove karke lightweight effects rakhe gaye hain, images lazy-load hoti hain aur logo assets optimize kiye gaye hain. Website ka existing data aur functionality same rakhi gayi hai.
+HOW TO RUN
+----------
+Windows: double-click RUN_LOCAL_SERVER.bat
+Mac/Linux: run ./start_server.sh
+Then open http://localhost:8000
 
-Main file: index.html
-Theme file: assets/css/style.css
-JavaScript: assets/js/main.js
-Detailed changes: YELLOW_CLEAN_PERFORMANCE_CHANGELOG.txt
+HOW TO CHANGE IMAGES
+--------------------
+Open assets/images and replace any JPG/PNG with your final image using the SAME filename.
+Recommended hero image size: 1600 x 850 px or larger.
+Recommended trip card image size: 800 x 560 px.
+Recommended blog image size: 900 x 620 px.
+
+DESIGN NOTES
+------------
+- Royal-yellow accent instead of orange.
+- Bright white/cream background; no heavy dark sections.
+- Glass navigation, search bar and enquiry cards.
+- Large rounded photo frames on every page.
+- Smooth reveal, hero slider and horizontal carousels.
+- Forms are front-end demos; connect them to your backend/API before launch.
+
+COLOR EDITING
+-------------
+Open assets/css/style.css and edit:
+--royal-yellow: #f4c430;
+--sun-yellow: #ffd85a;
+
+Logo backups are saved as:
+assets/images/logo-full-original.png
+assets/images/logo-mark-original.png
